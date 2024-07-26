@@ -1,4 +1,4 @@
-#Payment From
+#Payment Form
 <h1>Payment Form Project</h1>
 Welcome to the Payment Form Project! This repository contains the code and documentation for a user-friendly payment form that simplifies transactions with seamless functionality and robust security measures. The system stores transaction data securely in a database, ensuring efficient data management and retrieval.
 
